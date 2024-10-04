@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J4cKr0y
 - 👀 I’m interested in read fantastic and fantasy books, play vidéo Games, write poetry and programing stuffs
-- 🌱 I’m currently learning react CRA
+- 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on anything that Will improve myself
 - 📫 How to reach me : Key-External5149 on reddit
 - 😄 Pronouns: he/him/his
