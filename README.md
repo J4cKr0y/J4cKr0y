@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @J4cKr0y
-- 👀 I’m interested in read fantastic and fantasy books, play vidéo Games, write poetry and programing stuffs
-- 🌱 I’m currently learning vue.js
-- 💞️ I’m looking to collaborate on anything that Will improve myself
-- 📫 How to reach me : Key-External5149 on reddit
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I started coding on a Vtech computer for Kids. It was "Qbasic" language. 
+-FRANCE-
 
-<!---
-J4cKr0y/J4cKr0y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Passionate Web Developer seeking an internship or a professional training contract.**
+
+Having already led projects independently, I have developed strong skills in front-end (React) and back-end (Node/Express). I have also optimized SEO, performed tests with Jest, and set up CI/CD pipelines with GitHub Actions.
+
+Thanks to my varied experience, particularly as a Team Postman, I bring rigor, organization, and the ability to effectively manage projects.
+
+Available for an internship, a professional training contract, or a POEI to reach a bachelor's degree level.
