@@ -9,4 +9,4 @@ Thanks to my varied experience, particularly as a Team Postman, I bring rigor, o
 
 Available for an internship, a professional training contract, or a POEI to reach a bachelor's degree level. 
 
-Only 143 days left before the start of the school year.
+Only 111 days left before the start of the school year.
